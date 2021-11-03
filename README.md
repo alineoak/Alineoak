@@ -16,11 +16,11 @@
   <img align = "center" alt = "Aline-Js" height = "30" width = "40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "Aline-HTML" height = "30" width = "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "center" alt = "Aline-CSS" height = "30" width = "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img align = "right" alt = "Rafa-pic" height = "150" style = "border-radius: 50px;" src = "https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+   <img align = "right" alt = "Aline-jogo" height = "150" style = "border-radius: 50px;" src = "https://cdn.discordapp.com/attachments/710314120808890430/905572838952566834/image_1635975564.gif">
 </div>  
   
  ##
  <a href="https://www.linkedin.com/in/alinebcarvalhobenjamim/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href = "mailto:alineoak9@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alineoak9@gmail.com"/>        
 
-    
+   
