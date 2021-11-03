@@ -18,10 +18,6 @@
   <img align = "center" alt = "Aline-CSS" height = "30" width = "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>  
   
-  
-  
-  
-  
  ##
  <a href="https://www.linkedin.com/in/alinebcarvalhobenjamim/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href = "mailto:alineoak9@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alineoak9@gmail.com"/>        
